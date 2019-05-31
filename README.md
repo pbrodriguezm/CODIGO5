@@ -1,6 +1,6 @@
-# Título del Proyecto
+# MIS PROYECTOS CODIGO
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_aqui podre ingresar mis arechivos y codigos de tecsup_
 
 ## Comenzando 🚀
 
